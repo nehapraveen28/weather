@@ -1,6 +1,3 @@
-
-Absolutely, here's a revised version:
-
 This repository contains code for a Temperature Converter website created using HTML, CSS, and JavaScript. The website facilitates temperature conversions between Celsius, Fahrenheit, and Kelvin.
 
 The HTML file (index.html) forms the structure of the temperature converter web page.
